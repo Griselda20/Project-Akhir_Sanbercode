@@ -64,5 +64,3 @@ Pastikan Anda sudah menginstall **Node.js** (Versi 18 ke atas) dan **VS Code**.
 * **Waiting Strategy**: Menggunakan *dynamic waiting* dan *intercept* untuk mengatasi masalah server demo yang lambat.
 
 ---
-**Disusun Oleh:** Junita Amalia  
-**Tujuan:** Proyek Akhir Software Testing Automation
